@@ -1,0 +1,7 @@
+spring:
+  application:
+    name:TRANSACTION-SERVICE
+  datasource:
+    url: jdbc:mysql://localhost:3306/transactiondb
+    username: root
+    password: team03

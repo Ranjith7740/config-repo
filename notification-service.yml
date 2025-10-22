@@ -1,0 +1,7 @@
+spring:
+  application:
+    name:NOTIFICATION-SERVICE
+  datasource:
+    url: jdbc:mysql://localhost:3306/notificationdb
+    username: root
+    password: team03
